@@ -1,0 +1,3 @@
+[submodule "ecc-wiki.wiki"]
+	path = ecc-wiki.wiki
+	url = git://github.com/project-ecc/ecc-wiki.wiki
